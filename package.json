@@ -4,7 +4,8 @@
   "description": "place to log and view finances from a big picture",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/start.js"
   },
   "repository": {
     "type": "git",
