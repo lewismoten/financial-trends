@@ -1,3 +1,5 @@
+![financial-trends: Big-picture finance tile grid](docs/images/social-preview.png)
+
 # financial-trends
 
 A place to log and view finances from a "big picture" view: stocks, transactions, portfolio and trends.
